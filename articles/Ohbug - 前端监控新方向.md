@@ -1,8 +1,3 @@
----
-author: chenyueban
-date: 2020-08-23
----
-
 # Ohbug - 前端监控新方向
 
 众所周知，前端监控包括了异常监控、行为监控、性能监控等等，且每种业务对于需要监控的内容既有共通的异常、性能监控等，又有自定义的用户行为、用户画像等内容需要收集。
@@ -27,7 +22,7 @@ date: 2020-08-23
 
 下面是核心工作的整个生命周期。
 
-![flow](./flow.drawio.svg)
+![flow](../images/flow.drawio.svg)
 
 ## 扩展
 
@@ -144,3 +139,9 @@ export const extension = createExtension({
 ## 结语
 
 上述内容所提及的内容均以开源 [Ohbug](https://github.com/ohbug-org/ohbug)，更多文档可见 [Ohbug Docs](https://ohbug.net/docs/integration/Installation)。后续会分享关于前端监控的内容。
+
+<div align="center">
+  <p>关注 Ohbug 公众号</p>
+
+  ![wechat](../images/wechat.jpg)
+</div>
