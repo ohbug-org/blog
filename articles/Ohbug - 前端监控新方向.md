@@ -22,7 +22,7 @@
 
 下面是核心工作的整个生命周期。
 
-![flow](../images/flow.drawio.svg)
+![flow](../images/flow.drawio.png)
 
 ## 扩展
 
@@ -93,7 +93,7 @@ client.use(OhbugVue, Vue)
 
 ### 创建扩展
 
-如果你有自己独特的需求，可以根据需要自行创建矿建扩展。创建一个扩展非常简单：
+如果你有自己独特的需求，可以根据需要自行创建扩展。创建一个扩展非常简单：
 
 ```shell
 yarn add @ohbug/core
