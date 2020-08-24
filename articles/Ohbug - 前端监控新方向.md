@@ -140,6 +140,8 @@ export const extension = createExtension({
 
 上述内容所提及的内容均以开源 [Ohbug](https://github.com/ohbug-org/ohbug)，更多文档可见 [Ohbug Docs](https://ohbug.net/docs/integration/Installation)。后续会分享关于前端监控的内容。
 
+---
+
 <div align="center">
   <p>关注 Ohbug 公众号</p>
 
