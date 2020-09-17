@@ -9,3 +9,4 @@
 ## 文章
 
 1. [Ohbug - 前端监控新方向](./articles/Ohbug%20-%20前端监控新方向.md)
+2. [Ohbug 前端监控系统开源第二弹](./articles/Ohbug%20前端监控系统开源第二弹.md)
