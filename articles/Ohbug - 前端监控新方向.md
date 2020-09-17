@@ -143,7 +143,7 @@ export const extension = createExtension({
 ---
 
 <div align="center">
-  <p>关注 Ohbug 公众号</p>
 
   ![wechat](../images/wechat.jpg)
+
 </div>
