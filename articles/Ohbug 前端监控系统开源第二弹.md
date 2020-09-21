@@ -4,7 +4,7 @@
 
 依据数据的流向，我大概绘制了一个架构图：
 
-![core_process](../images/core_process.drawio.png)
+![core_process](https://raw.githubusercontent.com/ohbug-org/blog/master/images/core_process.drawio.png)
 
 这里解释一下几个核心模块的功能：
 - SDK：数据采集 [SDK](https://github.com/ohbug-org/ohbug)
@@ -75,8 +75,8 @@ case FETCH_ERROR:
 
 *Notifier* 的工作就是就收到任务后触发指定通知，包括 email、[webpush](https://github.com/web-push-libs/web-push)、webhook 的发送/触发。
 
-![notifier_dingtalk](../images/notifier_dingtalk.png)
-![notifier_email](../images/notifier_email.png)
+![notifier_dingtalk](https://raw.githubusercontent.com/ohbug-org/blog/master/images/notifier_dingtalk.png)
+![notifier_email](https://raw.githubusercontent.com/ohbug-org/blog/master/images/notifier_email.png)
 
 ## Dashboard
 
@@ -103,9 +103,4 @@ case FETCH_ERROR:
 
 ---
 
-
-<div align="center">
-
-  ![wechat](../images/wechat.jpg)
-
-</div>
+![wechat](https://raw.githubusercontent.com/ohbug-org/blog/master/images/wechat.jpg)
