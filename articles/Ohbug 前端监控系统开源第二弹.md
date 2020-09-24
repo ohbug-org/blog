@@ -65,7 +65,7 @@ case FETCH_ERROR:
 
 得到了 `intro` 就可以将相同 `intro` 的 *Event* 合并到一个数据集里，我们称每一个数据集为 *Issue*，然后就可以将数据持久化存储了。
 
-*Event* 的存储通过 *kafka* 通知到 *logstash**，logstash* 存入 *elasticsearch*。
+*Event* 的存储通过 *kafka* 通知到 *logstash*，*logstash* 存入 *elasticsearch*。
 
 *Issue* 的存储则直接使用 *postgresql*，另外 *Ohbug* 使用 [typeorm](https://github.com/typeorm/typeorm) 来操作 *postgresql*，好处是方便做数据库之间的迁移。
 
