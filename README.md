@@ -10,10 +10,11 @@
 1. [Ohbug - 前端监控新方向](./articles/Ohbug%20-%20前端监控新方向.md)
 1. [Ohbug 前端监控系统开源第二弹](./articles/Ohbug%20前端监控系统开源第二弹.md)
 1. [RxJS 与 函数式编程 - 函数式编程](./articles/RxJS%20与%20函数式编程%20-%20函数式编程.md)
-1. [RxJS 与 函数式编程 - RxJS入门](./articles/RxJS%20与%20函数式编程%20-%20RxJS入门.md)
+1. [RxJS 与 函数式编程 - RxJS 入门](./articles/RxJS%20与%20函数式编程%20-%20RxJS入门.md)
+1. [RxJS 与 函数式编程 - RxJS 操作符](./articles/RxJS%20与%20函数式编程%20-%20RxJS操作符.md)
 
 <div align="center">
 
-  ![wechat](./images/wechat.jpg)
+![wechat](./images/wechat.jpg)
 
 </div>
